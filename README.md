@@ -6,7 +6,8 @@ A compact, custom-designed ESP32-C3 development board with USB-C connectivity, o
 
 ## 3D Render
 
-![alt text](image-6.png)
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a853d9cb-6e44-4bbc-8392-f7c2953b604e" />
+
 
 The board features a USB-C connector on the left side, two tactile switches (BOOT and EN), the ESP32-C3 QFN package at the center-right, a PCB trace antenna on the far right, and a 4-pin UART header (3V3, RXD, TXD, GND) along the bottom edge. All passives are 0402/0603 for a tight layout.
 
