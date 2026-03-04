@@ -1,6 +1,6 @@
 # ESP32-C3 Custom Development Board
 
-A compact, custom-designed ESP32-C3 development board with USB-C connectivity, onboard antenna, and a clean two-layer PCB layout. Built for prototyping IoT and embedded applications without the bulk.
+A compact, custom-designed ESP32-C3 development board with USB-C connectivity, onboard antenna, and a clean PCB layout.
 
 ---
 
@@ -10,7 +10,7 @@ A compact, custom-designed ESP32-C3 development board with USB-C connectivity, o
 
 
 The board features a USB-C connector on the left side, two tactile switches (BOOT and EN), the ESP32-C3 QFN package at the center-right, a PCB trace antenna on the far right, and a 4-pin UART header (3V3, RXD, TXD, GND) along the bottom edge. All passives are 0402/0603 for a tight layout.
-
+with onboard temp humidity barometer and pressure
 ---
 
 ## PCB Layout
@@ -81,4 +81,8 @@ For serial debugging without USB, wire up the 4-pin UART header to any USB-to-se
 Hardware design files are provided as-is. Use at your own risk. Feel free to fork, modify, and build on this design for personal or commercial projects.
 
 
-replication soon!!
+To make this 
+Please download the esp32.zip(gerber files)
+go to jlcpcb upload
+upload the BOM AND cpl files and order!!
+that simple
