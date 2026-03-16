@@ -118,4 +118,11 @@ that simple
 - PCB Fabrication Cost: **$10 USD**
 - Total Cost (Including Shipping): **$~ 162 USD**
 
+# How to use it / assemble it
+Go to jlcpcb upload gerber select pcba 
+give the cpl and desgnator files
+order it
+wait 
+and there u have it 
+connect usb c cable use arduino ide thonny esp32 tool whatever u want lol
 ---
